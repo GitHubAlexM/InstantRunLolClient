@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\AutoLOL\bin\Debug\AutoLOL.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\AutoLOL\bin\Debug\AutoLOL.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\AutoLOL\bin\Debug\AutoLOL.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\AutoLOL\obj\Debug\AutoLOL.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\AutoLOL\obj\Debug\AutoLOL.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\AutoLOL\obj\Debug\AutoLOL.pdb

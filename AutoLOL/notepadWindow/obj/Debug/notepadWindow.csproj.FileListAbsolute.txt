@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\notepadWindow\bin\Debug\notepadWindow.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\notepadWindow\bin\Debug\notepadWindow.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\notepadWindow\bin\Debug\notepadWindow.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\notepadWindow\obj\Debug\notepadWindow.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\notepadWindow\obj\Debug\notepadWindow.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\AutoLOL\notepadWindow\obj\Debug\notepadWindow.pdb
